@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/heart_Plane_000.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/heart_Plane_001.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/heart_Plane_002.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/heart_Plane_004.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/Material_001.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Blueprints/GM_Tutorial.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Materials/M_HoleBase.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Materials/M_TunnelBase.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Materials/MI_Tunnel.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/SM_Hole_02.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/SM_Hole_03.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/SM_Hole_04.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Meshes/SM_Tunnel.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Textures/T_Binary.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/Textures/T_Noise.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/UI/T_Restart.uasset",
+				"/Users/carlosorozco/Downloads/InfiniteMatrixStarter-main 2/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
+			]
+		}
+	]
+}
